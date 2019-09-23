@@ -1,4 +1,4 @@
-#E05a-Animation
+# E05a-Animation
 
 We will begin to explore keyboard and mouse control in a Python Arcade program. 
 
